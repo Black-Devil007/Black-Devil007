@@ -62,7 +62,7 @@ Bio:
 #### Reach me through .📫 : 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/atmagyan-singh-96642115b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/black-d3vil/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:singhatmagyan@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/blackd3vil.007"><img src="https://img.shields.io/badge/-@blackd3vil_007-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <a href="https://my-portfolio-git-main-black-d3vil007.vercel.app//"><img alt= "Portfolio" src="https://img.shields.io/badge/-Portfolio%20-%230077B5.svg?style=flat&logo=Website&logoColor=white"/></a> &nbsp;
