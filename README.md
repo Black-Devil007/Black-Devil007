@@ -46,6 +46,9 @@ Bio:
 
 <hr/>
 
+<h3>Latest Tweets 🧵</h3>
+<p align='center'><a href="https://twitter.com/BlackD3vil00"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=BlackD3vil00&layout=wide" width="350"  alt="github-readme-twitter"></a></p>
+
 ### GitHub Streak:
 
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Black-D3vil007&amp;theme=github-green-purple&amp;border_radius=5" alt="GitHub Streak"></a></p>
