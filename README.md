@@ -47,7 +47,7 @@ Bio:
 <hr/>
 
 <h3>Latest Tweets 🧵</h3>
-<p align='center'><a href="https://twitter.com/BlackD3vil00"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=BlackD3vil00&layout=wide" width="350"  alt="github-readme-twitter"></a></p>
+<p align='center'><a href="https://twitter.com/BlackD3vil00"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=BlackD3vil00&layout=wide&amp;theme=onedark" width="400"  alt="github-readme-twitter"></a></p>
 
 ### GitHub Streak:
 
@@ -55,7 +55,11 @@ Bio:
 
  <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Black-D3vil007&theme=dracula" /> </p>
 
+### Spotify Playing 🎧
 
+<p align="center"><a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=317mzyxcwoafp5fh425vqo7grqlu&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=2e3440&amp;bar_color_cover=true" alt="spotify-github-profile"></a></p>
+
+### Leetcode 💻
 
 <p align="center"><img src="https://leetcard.jacoblin.cool/Atmagyan?theme=nord&amp;font=B612%20Mono&amp;ext=heatmap" alt="LeetCode Stats"></p>
 
