@@ -42,7 +42,9 @@ Bio:
 
 <p align="center"> <img width="50%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Black-D3vil007&theme=radical&utcOffset=5"> </p>
 
+<b>Top Repositories</b>
 
+<div width="100%" align="center"><a href="https://github.com/Black-D3vil007/Leetcode75" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Black-D3vil007&repo=Leetcode75&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Black-D3vil007/atmagyan-portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Black-D3vil007&repo=atmagyan-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <hr/>
 
@@ -188,6 +190,10 @@ Bio:
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>	  
 </p>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/singhatmagL"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 <br/>
 
