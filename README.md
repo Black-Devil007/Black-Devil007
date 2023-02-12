@@ -198,9 +198,7 @@ Bio:
 <br/>
 
 <hr/>
-
-<p><img src="https://activity-graph.herokuapp.com/graph?username=Black-D3vil007&amp;theme=react-dark&amp;hide_border=true&amp;area=true" alt="𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑"> </p>
-
+<a href="http://www.github.com/Black-D3vil007"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Black-D3vil007&bg_color=4c566a&color=d8dee9&line=81a1c1&point=8fbcbb&area_color=81a1c1&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 <p align="center"><img src="https://github.com/Black-D3vil007/Black-D3vil007/blob/main/github-user-contribution.svg" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑"></p>
