@@ -38,18 +38,20 @@ Bio:
 
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Black-D3vil007&show_icons=true&theme=cobalt" /></p>
 
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-D3vil007&layout=compact&theme=onedark" /></p>
+<!-- <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-D3vil007&layout=compact&theme=onedark" /></p> -->
+
+<p align="center"><a href="https://github.com/Black-D3vil007" align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-D3vil007&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=434C5E&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
 
 <p align="center"> <img width="50%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Black-D3vil007&theme=radical&utcOffset=5"> </p>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Black-D3vil007/Leetcode75" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Black-D3vil007&repo=Leetcode75&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Black-D3vil007/atmagyan-portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Black-D3vil007&repo=atmagyan-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Black-D3vil007/Leetcode75" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Black-D3vil007&repo=Leetcode75&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=434C5E&hide_border=false&locale=en" /></a><a href="https://github.com/Black-D3vil007/atmagyan-portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Black-D3vil007&repo=atmagyan-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=434C5E&hide_border=false&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <hr/>
 
 <h3>Latest Tweets 🧵</h3>
-<p align='center'><a href="https://twitter.com/BlackD3vil00"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=BlackD3vil00&layout=wide&amp;theme=onedark" width="400"  alt="github-readme-twitter"></a></p>
+<p align='center' style="background-color=#434C5E"><a href="https://twitter.com/BlackD3vil00"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=BlackD3vil00&layout=wide" width="400"  alt="github-readme-twitter"></a></p>
 
 ### GitHub Streak:
 
