@@ -30,7 +30,7 @@ Bio:
 ### GitHub Trophy 🏆: 
 
 <p align="center"><a href="https://github.com/Black-D3vil007/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Black-D3vil007&column=7&theme=onedark&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Black-D3vil007&column=7&theme=onedark&no-frame=false"/>
 </a></p>
 
 
@@ -51,7 +51,7 @@ Bio:
 <hr/>
 
 <h3>Latest Tweets 🧵</h3>
-<p align='center' style="background-color=#434C5E"><a href="https://twitter.com/BlackD3vil00"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=BlackD3vil00&layout=wide" width="400"  alt="github-readme-twitter"></a></p>
+<p align='center'><a href="https://twitter.com/BlackD3vil00"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=BlackD3vil00&layout=wide" width="400"  alt="github-readme-twitter"></a></p>
 
 ### GitHub Streak:
 
