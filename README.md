@@ -4,7 +4,7 @@
 
 <p align="left"> 
 <a href="https://github.com/Black-D3vil007"><img src="https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&amp;logo=github" alt="Hello programmer Welcome to my profile"></a>
-<img src="https://komarev.com/ghpvc/?username=Black-Devil007&label=Profile%20views&color=2eb37e&style=flat" alt="profile views" /> <img src="https://img.shields.io/github/followers/Black-D3vil007?label=Followers&style=social" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=strang3-r&label=Profile%20views&color=2eb37e&style=flat" alt="profile views" /> <img src="https://img.shields.io/github/followers/Black-D3vil007?label=Followers&style=social" alt="followers" />
 </p>
 
 <!--### Hello World, I am Atmagyan Singh 👋 -->
