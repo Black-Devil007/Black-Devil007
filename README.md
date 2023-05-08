@@ -3,8 +3,8 @@
 <hr/>
 
 <p align="left"> 
-<a href="https://github.com/Black-D3vil007"><img src="https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&amp;logo=github" alt="Hello programmer Welcome to my profile"></a>
-<img src="https://komarev.com/ghpvc/?username=strang3-r&label=Profile%20views&color=2eb37e&style=flat" alt="profile views" /> <img src="https://img.shields.io/github/followers/Black-D3vil007?label=Followers&style=social" alt="followers" />
+<a href="https://github.com/strang3-r"><img src="https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&amp;logo=github" alt="Hello programmer Welcome to my profile"></a>
+<img src="https://komarev.com/ghpvc/?username=strang3-r&label=Profile%20views&color=2eb37e&style=flat" alt="profile views" /> <img src="https://img.shields.io/github/followers/strang3-r?label=Followers&style=social" alt="followers" />
 </p>
 
 <!--### Hello World, I am Atmagyan Singh 👋 -->
@@ -29,24 +29,24 @@ Bio:
 
 ### GitHub Trophy 🏆: 
 
-<p align="center"><a href="https://github.com/Black-D3vil007/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Black-D3vil007&column=7&theme=onedark&no-frame=false"/>
+<p align="center"><a href="https://github.com/strang3-r/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=strang3-r&column=7&theme=onedark&no-frame=false"/>
 </a></p>
 
 
 
 
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Black-D3vil007&show_icons=true&theme=cobalt" /></p>
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=strang3-r&show_icons=true&theme=cobalt" /></p>
 
 <!-- <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-D3vil007&layout=compact&theme=onedark" /></p> -->
 
-<p align="center"><a href="https://github.com/Black-D3vil007" align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-D3vil007&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=434C5E&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
+<p align="center"><a href="https://github.com/strang3-r" align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strang3-r&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=434C5E&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
 
-<p align="center"> <img width="50%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Black-D3vil007&theme=radical&utcOffset=5"> </p>
+<p align="center"> <img width="50%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=strang3-r&theme=radical&utcOffset=5"> </p>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Black-D3vil007/Leetcode75" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Black-D3vil007&repo=Leetcode75&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=434C5E&hide_border=false&locale=en" /></a><a href="https://github.com/Black-D3vil007/atmagyan-portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Black-D3vil007&repo=atmagyan-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=434C5E&hide_border=false&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/strang3-r/Leetcode75" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Black-D3vil007&repo=Leetcode75&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=434C5E&hide_border=false&locale=en" /></a><a href="https://github.com/strang3-r/atmagyan-portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=strang3-r&repo=atmagyan-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=434C5E&hide_border=false&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <hr/>
 
