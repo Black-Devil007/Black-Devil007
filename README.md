@@ -46,7 +46,7 @@ Bio:
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/strang3-r/Leetcode75" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Black-D3vil007&repo=Leetcode75&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=434C5E&hide_border=false&locale=en" /></a><a href="https://github.com/strang3-r/atmagyan-portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=strang3-r&repo=atmagyan-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=434C5E&hide_border=false&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/strang3-r/Leetcode75" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=strang3-r&repo=Leetcode75&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=434C5E&hide_border=false&locale=en" /></a><a href="https://github.com/strang3-r/atmagyan-portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=strang3-r&repo=atmagyan-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=434C5E&hide_border=false&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <hr/>
 
@@ -55,9 +55,9 @@ Bio:
 
 ### GitHub Streak:
 
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Black-D3vil007&amp;theme=github-green-purple&amp;border_radius=5" alt="GitHub Streak"></a></p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=strang3-r&amp;theme=github-green-purple&amp;border_radius=5" alt="GitHub Streak"></a></p>
 
- <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Black-D3vil007&theme=dracula" /> </p>
+ <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=strang3-r&theme=dracula" /> </p>
 
 ### Spotify Playing 🎧
 
@@ -89,7 +89,7 @@ Bio:
 
 ### GitHub Matrices: 
 
-<p align="center"><img src="https://metrics.lecoq.io/Black-D3vil007" alt="Metrics"></p>
+<p align="center"><img src="https://metrics.lecoq.io/strang3-r" alt="Metrics"></p>
 
 <hr/>
 
@@ -200,7 +200,7 @@ Bio:
 <br/>
 
 <hr/>
-<a href="http://www.github.com/Black-D3vil007"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Black-D3vil007&bg_color=4c566a&color=d8dee9&line=81a1c1&point=8fbcbb&area_color=81a1c1&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/strang3-r"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=strang3-r&bg_color=4c566a&color=d8dee9&line=81a1c1&point=8fbcbb&area_color=81a1c1&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 <p align="center"><img src="https://github.com/Black-D3vil007/Black-D3vil007/blob/main/github-user-contribution.svg" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑"></p>
