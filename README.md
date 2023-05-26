@@ -76,7 +76,7 @@ Bio:
 <a href="https://www.linkedin.com/in/strang3r/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:singhatmagyan@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/strang3r_7"><img src="https://img.shields.io/badge/-@strang3r_7-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-<a href="http://atmagyan.me/atmagyan-portfolio/"><img alt= "Portfolio" src="https://img.shields.io/badge/-Portfolio%20-%230077B5.svg?style=flat&logo=Website&logoColor=white"/></a> &nbsp;
+<a href="https://strang3-r.github.io/atmagyan-portfolio/"><img alt= "Portfolio" src="https://img.shields.io/badge/-Portfolio%20-%230077B5.svg?style=flat&logo=Website&logoColor=white"/></a> &nbsp;
   <a href="https://twitter.com/BlackD3vil00"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/BlackD3vil00?style=social"></a> &nbsp;
 <br>
   <p align="center"><a href="https://linktr.ee/atmagyan"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Flinktr.ee%2FBlack-D3vil007&amp;label=Linktree&amp;labelColor=%23d9e3f0&amp;countColor=%2337d67a&amp;style=flat-square&amp;labelStyle=upper" alt="Visitors"></a></p>
