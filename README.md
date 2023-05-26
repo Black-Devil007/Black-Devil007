@@ -197,6 +197,8 @@ Bio:
 
 <a href="https://www.buymeacoffee.com/singhatmagL"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
+<p><a href="https://ko-fi.com/thestrang3r"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="thestrang3r" /></a></p><br><br>
+
 <br/>
 
 <hr/>
