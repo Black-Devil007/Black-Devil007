@@ -61,7 +61,7 @@ Bio:
 
 ### Spotify Playing 🎧
 
-<p align="center"><a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=317mzyxcwoafp5fh425vqo7grqlu&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=2e3440&amp;bar_color_cover=true" alt="spotify-github-profile"></a></p>
+<p>[[<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=317mzyxcwoafp5fh425vqo7grqlu&amp;redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=317mzyxcwoafp5fh425vqo7grqlu&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=true">https://spotify-github-profile.kittinanx.com/api/view.svg?uid=317mzyxcwoafp5fh425vqo7grqlu&amp;redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=317mzyxcwoafp5fh425vqo7grqlu&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=true</a>)]]</p>
 
 ### Leetcode 💻
 
