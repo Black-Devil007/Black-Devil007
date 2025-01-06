@@ -51,7 +51,7 @@ Bio:
 <hr/>
 
 <h3>Latest Tweets 🧵</h3>
-<p align='center'><a href="https://twitter.com/strang3_r_0"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=BlackD3vil00&layout=wide" width="400"  alt="github-readme-twitter"></a></p>
+<p align='center'><a href="https://twitter.com/strang3_r_0"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=strang3_r_0&layout=wide" width="400"  alt="github-readme-twitter"></a></p>
 
 ### GitHub Streak:
 
